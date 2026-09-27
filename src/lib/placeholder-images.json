@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-kitchen",
+      "description": "A bright kitchen counter with fresh vegetables and cooking utensils.",
+      "imageUrl": "https://images.unsplash.com/photo-1550223026-0d6fd780c560?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8a2l0Y2hlbiUyMGNvdW50ZXJ8ZW58MHx8fHwxNzY3ODU2NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen counter"
+    },
+    {
+      "id": "pasta-dish",
+      "description": "A delicious looking plate of pasta with tomato sauce and basil.",
+      "imageUrl": "https://images.unsplash.com/photo-1516685018646-549198525c1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYXN0YSUyMGRpc2h8ZW58MHx8fHwxNzY3NzU3MzY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pasta dish"
+    },
+    {
+      "id": "salad-bowl",
+      "description": "A fresh and vibrant salad in a large wooden bowl.",
+      "imageUrl": "https://images.unsplash.com/photo-1604497198754-a2183225cdc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzYWxhZCUyMGJvd2x8ZW58MHx8fHwxNzY3ODM3NDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salad bowl"
+    },
+    {
+      "id": "soup-bowl",
+      "description": "A steaming bowl of hearty vegetable soup.",
+      "imageUrl": "https://images.unsplash.com/photo-1616501268826-ee9731c915d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzb3VwJTIwYm93bHxlbnwwfHx8fDE3Njc3OTU0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "soup bowl"
+    },
+    {
+      "id": "tacos",
+      "description": "Three delicious tacos on a plate.",
+      "imageUrl": "https://images.unsplash.com/photo-1611699363784-f48a38b41a78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0YWNvcyUyMHBsYXRlfGVufDB8fHx8MTc2Nzc1Mzc4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tacos plate"
+    }
+  ]
+}
